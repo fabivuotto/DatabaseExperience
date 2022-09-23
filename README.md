@@ -8,6 +8,12 @@
 <p> 2. Tipo de pagamento mais utilizado  </p>
 <p> 3. Clientes mais ativos a partir do segundo pedido </p>
 
+<p> Desafios Ordem de Serviço:  </p>
+
+<p> 1. Quais os veículos em atendimento? </p>
+<p> 2. Em quantas ordem de serviço cada equipe atuou? </p>
+<p> 3. Mão de Obra mais solicitada </p>
+
 ------------
 
 Projeto de Fabiane
